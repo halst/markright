@@ -42,8 +42,8 @@ Everything that starts with 8 spaces or more should be centered:
 
 should turn into
 
-    <center><h1>Title</h1> 
-    by Foo Bar</center>
+<center><h1>Title</h1> 
+by Foo Bar</center>
 
 ## Footnotes linking
 
