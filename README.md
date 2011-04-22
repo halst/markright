@@ -5,35 +5,48 @@ Markdown extension for personal projects
 Suggested features:
 ----------------------------
 
-# General features
+### General features
 
-## Simplified one-word links
+#### Simplified one-word links
 
 While `This is [an example](http://example.com/)` should still yield 'This is [an example](http://example.com/)',
 I suggest to have a shortcut for one-word links, i.e.:
 
-    This is an example(http://example.com/)
+    This is an example (http://example.com/)
 
 will turn into
 
-> This is an example(http://example.com/)
+> This is an [example](http://example.com/)
 
-## Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
+#### Centered text
+
+Every line that starts with 8 spaces or more should be centered:
+
+                                   Title                               
+                                   =====
+                                by Foo Bar
+
+will turn into
+
+    <center><h1>Title</h1> 
+    by Foo Bar</center>
+
+#### Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
  - newlines
  - multiple underscores in words
  - url autolinking
  - fenced code blocks
  - syntax highlighting
 
-# Very specific features
+### Very specific features
 
-## Auto-embedding youtube videos
+#### Auto-embedding youtube videos
 
     http://www.youtube.com/watch?v=gj8QmRQtVao
 
 will turn into pre-formated embedded video.
 
-## 'Papers'
+#### 'Papers'
 
     /------------------------------\
     Some text
@@ -45,7 +58,7 @@ will turn into
     Some text
     </div>
 
-## In-document indentation
+#### In-document indentation
 
 Indentation with 4 spaces will not yield code-block, but a list with no visible bullets.
 
@@ -61,4 +74,4 @@ will turn into
     <li>Bananas</li>
     </ul>
 
-## Some table syntax, maybe?
+#### Some table syntax, maybe?
