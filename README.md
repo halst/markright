@@ -1,6 +1,8 @@
 MarkRight: MarkUp similar to MarkDown
 ==============================
 
+Square brackets are the basis for the language.
+
 ## Simplified links
 
 One-word links:
