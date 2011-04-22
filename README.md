@@ -3,7 +3,7 @@ MarkRight
 Markdown extension for personal projects
 
 
-###General features
+## General features
 
 ### Simplified one-word links
 
