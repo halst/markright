@@ -1,6 +1,6 @@
 MarkRight
 =======
-Markdown extensions I'm thinking of for personal projects
+Markdown extensions I'm thinking of for personal projects.
 
 ## Simplified links
 
