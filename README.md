@@ -1,6 +1,5 @@
-MarkRight
-=======
-Markdown extensions I'm thinking of for personal projects.
+MarkRight: MarkUp, similar to MarkDown
+==============================
 
 ## Simplified links
 
@@ -64,7 +63,7 @@ should turn into
 
 Is kinda the opposite of footnotes linking.
 
-     Header
+    Header
     ======
     ...
     Go back to that header [#Header].
@@ -75,6 +74,9 @@ should turn into
     ...
     <p>Go back to that <a href="#Header">header</a>.
  
+## Automatic table of contents
+
+    [table of contents]
 
 ## Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
  - newlines
@@ -112,3 +114,5 @@ will turn into
     </ul>
 
 ## Some table syntax, maybe?
+
+## Some smatry-pants, maybe?
