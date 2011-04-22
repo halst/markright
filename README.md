@@ -2,10 +2,7 @@ MarkRight
 =======
 Markdown extension for personal projects
 
-
-## General features
-
-### Simplified links
+## Simplified links
 
 One-word links:
 
@@ -23,20 +20,20 @@ should turn into
 
 > This is [an example](http://example.com/)
 
-### Simplified images
+## Simplified images
 
     [image http://example.com/image.png]
 
 should turn into an image.
 
-### Simplified embedded objects
+## Simplified embedded objects
 
 Commonly used embedded objects, like YouTube videos and Google Maps could also be auto-embedded:
 
     [youtube http://www.youtube.com/watch?v=P0zWopVbW4k]
     [map http://maps.google.com/?ie=UTF8&ll=54.876607,15.117188&spn=34.745161,58.886719&t=h&z=4]
 
-### Centered text
+## Centered text
 
 Everything that starts with 8 spaces or more should be centered:
 
@@ -49,22 +46,20 @@ will turn into
     <center><h1>Title</h1> 
     by Foo Bar</center>
 
-### Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
+## Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
  - newlines
  - multiple underscores in words
  - url autolinking
  - fenced code blocks
  - syntax highlighting
 
-## Very specific features
-
-### Auto-embedding youtube videos
+## Auto-embedding youtube videos
 
     http://www.youtube.com/watch?v=gj8QmRQtVao
 
 will turn into pre-formated embedded video.
 
-### 'Papers'
+## 'Papers'
 
     /------------------------------\
     Some text
@@ -76,7 +71,7 @@ will turn into
     Some text
     </div>
 
-### In-document indentation
+## In-document indentation
 
 Indentation with 4 spaces will not yield code-block, but a list with no visible bullets.
 
@@ -92,4 +87,4 @@ will turn into
     <li>Bananas</li>
     </ul>
 
-### Some table syntax, maybe?
+## Some table syntax, maybe?
