@@ -5,20 +5,40 @@ Markdown extension for personal projects
 
 ## General features
 
-### Simplified one-word links
+### Simplified links
 
-While `This is [an example](http://example.com/)` should still yield 'This is [an example](http://example.com/)',
-I suggest to have a shortcut for one-word links, i.e.:
+One-word links:
 
-    This is an example (http://example.com/)
+    This is an example [http://example.com/]
 
-will turn into
+should turn into
 
 > This is an [example](http://example.com/)
 
+Multi-word links:
+
+    This is [an example] [http://example.com/]
+
+should turn into
+
+> This is [an example](http://example.com/)
+
+### Simplified images
+
+    [image http://example.com/image.png]
+
+should turn into an image.
+
+### Simplified embedded objects
+
+Commonly used embedded objects, like YouTube videos and Google Maps could also be auto-embedded:
+
+    [youtube http://www.youtube.com/watch?v=P0zWopVbW4k]
+    [map http://maps.google.com/?ie=UTF8&ll=54.876607,15.117188&spn=34.745161,58.886719&t=h&z=4]
+
 ### Centered text
 
-Every line that starts with 8 spaces or more should be centered:
+Everything that starts with 8 spaces or more should be centered:
 
                                    Title                               
                                    =====
