@@ -1,6 +1,6 @@
 MarkRight
 =======
-Markdown extension for personal projects
+Markdown extensions I'm thinking of for personal projects
 
 ## Simplified links
 
@@ -41,7 +41,7 @@ Everything that starts with 8 spaces or more should be centered:
                                    =====
                                 by Foo Bar
 
-will turn into
+should turn into
 
     <center><h1>Title</h1> 
     by Foo Bar</center>
@@ -52,12 +52,6 @@ will turn into
  - url autolinking
  - fenced code blocks
  - syntax highlighting
-
-## Auto-embedding youtube videos
-
-    http://www.youtube.com/watch?v=gj8QmRQtVao
-
-will turn into pre-formated embedded video.
 
 ## 'Papers'
 
