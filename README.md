@@ -66,7 +66,7 @@ Is kinda the opposite of footnotes linking.
     Header
     ======
     ...
-    Go back to that header [#Header].
+    Go back to that header [Header].
 
 should turn into
 
