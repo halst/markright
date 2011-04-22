@@ -81,6 +81,16 @@ Is kinda the opposite of footnotes linking.
  - fenced code blocks
  - syntax highlighting
 
+## Todo-lists
+
+    [+] Brainstorm about features
+    [-] Implement in Python
+
+***
+
+    <p class='done'>Brainstorm about features</p>
+    <p class='undone'>Implement in Python</p>
+
 ## 'Papers'
 
     /------------------------------\
