@@ -46,6 +46,36 @@ should turn into
     <center><h1>Title</h1> 
     by Foo Bar</center>
 
+## Footnotes linking
+
+    ...pointed out in [Dijkstra68].
+    For more info see [Dijkstra68].
+
+    [Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra
+
+should turn into
+
+    ...pointed out in <a href="#Dijkstra68">Dijkstra68</a>.
+    For more info see <a href="#Dijkstra68">Dijkstra68</a>.
+   
+    <p id="Dijkstra68">[Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra</p>
+
+## Header linking
+
+Is kinda the opposite of footnotes linking.
+
+     Header
+    ======
+    ...
+    Go back to that header [#Header].
+
+should turn into
+
+    <h1 id="Header">Header</h1>
+    ...
+    <p>Go back to that <a href="#Header">header</a>.
+ 
+
 ## Use features of [git flavored markdown](https://github.com/blog/832-rolling-out-the-redcarpet)? 
  - newlines
  - multiple underscores in words
