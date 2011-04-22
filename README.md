@@ -1,4 +1,4 @@
-MarkRight: MarkUp, similar to MarkDown
+MarkRight: MarkUp similar to MarkDown
 ==============================
 
 ## Simplified links
