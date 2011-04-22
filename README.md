@@ -36,6 +36,7 @@ Everything that starts with 8 spaces or more should be centered:
                                    =====
                                 by Foo Bar
 
+***
 
     <center><h1>Title</h1> 
     by Foo Bar</center>
@@ -46,6 +47,8 @@ Everything that starts with 8 spaces or more should be centered:
     For more info see [Dijkstra68].
 
     [Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra
+
+***
 
     ...pointed out in <a href="#Dijkstra68">Dijkstra68</a>.
     For more info see <a href="#Dijkstra68">Dijkstra68</a>.
@@ -60,6 +63,8 @@ Is kinda the opposite of footnotes linking.
     ======
     ...
     Go back to that header [Header].
+
+***
 
     <h1 id="Header">Header</h1>
     ...
@@ -82,6 +87,8 @@ Is kinda the opposite of footnotes linking.
     Some text
     \------------------------------/
 
+***
+
     <div class='paper'>
     Some text
     </div>
@@ -93,6 +100,8 @@ Indentation with 4 spaces will not yield code-block, but a list with no visible 
         Apples
         Pears
         Bananas
+
+***
 
     <ul class="no_bullet">
     <li>Apples</li>
