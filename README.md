@@ -89,9 +89,9 @@ Is kinda the opposite of footnotes linking.
 
 ***
 
-> <div class='paper'>
-> Some text
-> </div>
+    <div class='paper'>
+    Some text
+    </div>
 
 ## In-document indentation
 
