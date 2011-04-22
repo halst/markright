@@ -7,15 +7,11 @@ One-word links:
 
     This is an example [http://example.com/]
 
-should turn into
-
 > This is an [example](http://example.com/)
 
 Multi-word links:
 
     This is [an example] [http://example.com/]
-
-should turn into
 
 > This is [an example](http://example.com/)
 
@@ -40,7 +36,6 @@ Everything that starts with 8 spaces or more should be centered:
                                    =====
                                 by Foo Bar
 
-should turn into
 
     <center><h1>Title</h1> 
     by Foo Bar</center>
@@ -51,8 +46,6 @@ should turn into
     For more info see [Dijkstra68].
 
     [Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra
-
-should turn into
 
     ...pointed out in <a href="#Dijkstra68">Dijkstra68</a>.
     For more info see <a href="#Dijkstra68">Dijkstra68</a>.
@@ -67,8 +60,6 @@ Is kinda the opposite of footnotes linking.
     ======
     ...
     Go back to that header [Header].
-
-should turn into
 
     <h1 id="Header">Header</h1>
     ...
@@ -91,8 +82,6 @@ should turn into
     Some text
     \------------------------------/
 
-will turn into
-
     <div class='paper'>
     Some text
     </div>
@@ -104,8 +93,6 @@ Indentation with 4 spaces will not yield code-block, but a list with no visible 
         Apples
         Pears
         Bananas
-
-will turn into
 
     <ul class="no_bullet">
     <li>Apples</li>
