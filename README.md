@@ -55,7 +55,7 @@ Everything that starts with 5 spaces or more (and is not inside a nested block) 
     ...pointed out in <a href="#Dijkstra68">Dijkstra68</a>.
     For more info see <a href="#Dijkstra68">Dijkstra68</a>.
    
-    <p id="Dijkstra68">[Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra</p>
+    <p name="Dijkstra68">[Dijkstra68] A Case against the GO TO Statement by Edsger W.Dijkstra</p>
 
 ## Header linking
 
@@ -68,7 +68,7 @@ Is kinda the opposite of footnotes linking.
 
 ***
 
-    <h1 id="Header">Header</h1>
+    <h1 name="Header">Header</h1>
     ...
     <p>Go back to that <a href="#Header">header</a>.
  
