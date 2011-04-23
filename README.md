@@ -32,7 +32,7 @@ Commonly used embedded objects, like YouTube videos and Google Maps could also b
 
 ## Centered text
 
-Everything that starts with 8 spaces or more should be centered:
+Everything that starts with 5 spaces or more (and is not inside a nested block) should be centered:
 
                                    Title                               
                                    =====
