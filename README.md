@@ -93,6 +93,12 @@ Is kinda the opposite of footnotes linking.
     <p class='done'>Brainstorm about features</p>
     <p class='undone'>Implement in Python</p>
 
+## Notes, warnings, etc?
+
+    [i] Some info here
+    [!] Warning, Important!
+    [Note] Note that this is note
+
 ## 'Papers'
 
     /------------------------------\
