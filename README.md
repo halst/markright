@@ -241,9 +241,13 @@ Headline 2, Left-aligned with bottom underlining
                                                       ### Headline 3, right  ###
 
 #### Headline 4 inside a paragraph #######
-Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. 
+Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, 
+paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. 
                         
-Paragraph text left word-wrap, paragraph text left word-wrap,  paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap.
+Paragraph text left word-wrap, paragraph text left word-wrap,  paragraph text le
+ft word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, 
+paragraph text left word-wrap, paragraph text left word-wrap, paragraph text 
+left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap.
 
 ________________________________________________________________________________
 
@@ -271,7 +275,13 @@ Paragraph text left no-word-wrap with intentional line breaks.
              ight-aligned text,  right-aligned text,  right-aligned text,  right
                                                                    aligned text.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing *italics*, sed do eiusmod tempor incididunt *italia* ut labore et dolore 3*3=9 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 2*2=4 laboris nisi ut aliquip ex ea commodo consequat *italics*. Duis aute **bold** irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est **bold old dold**.
+Lorem ipsum dolor sit amet, consectetur adipisicing *italics*, sed do eiusmod 
+tempor incididunt *italia* ut labore et dolore 3*3=9 magna aliqua. Ut enim ad 
+minim veniam, quis nostrud exercitation ullamco 2*2=4 laboris nisi ut aliquip 
+ex ea commodo consequat *italics*. Duis aute **bold** irure dolor in 
+reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia 
+deserunt mollit anim id est **bold old dold**.
 
       *Often epigraphs are written in italics and right-aligned, and they occupy
                                                                  several lines.*
@@ -282,10 +292,17 @@ Lorem ipsum dolor sit amet, consectetur adipisicing *italics*, sed do eiusmod te
     "There is no one who loves plain text itself, who seeks after it and 
                 wants to have it, simply because it is plain..."*
 
-[Lorem ipsum][http://www.lipsum.com/] dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation google [google.com] ullamco laboris nisi ut aliquip ex ea commodo consequat[link consequat.com]. Duis aute irure dolor in reprehenderit in voluptate 
-[http://www.google.dk/search?sourceid=chrome&ie=UTF-8&q=voluptate] velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[Lorem ipsum][http://www.lipsum.com/] dolor sit amet, consectetur adipisicing 
+elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim 
+ad minim veniam, quis nostrud exercitation google [google.com] ullamco laboris 
+nisi ut aliquip ex ea commodo consequat[link consequat.com]. Duis aute irure 
+dolor in reprehenderit in voluptate 
+[http://www.google.dk/search?sourceid=chrome&ie=UTF-8&q=voluptate] velit esse 
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Inline image, inline image, inline image, inline image, inline image, [http://www.x-vinder.dk/sites/all/modules/contrib/smileys/packs/Roving/smile.png]
+Inline image, inline image, inline image, inline image, inline image, 
+[http://www.x-vinder.dk/sites/all/modules/contrib/smileys/packs/Roving/smile.png]
 inline image, inline image, inline image.
 
 [http://www.iconeasy.com/icon/thumbnails/Emoticon/IconTexto%20Emoticons/Smile%20Face%20Icon.jpg]
@@ -294,13 +311,25 @@ inline image, inline image, inline image.
         
                [http://icons.iconseeker.com/png/128/vista-halloween/smile-2.png]
 
-    Paragraph One Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Paragraph One Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim 
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
+    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum 
+    dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+    sunt in culpa qui officia deserunt mollit anim id est laborum.
     Totally different paragraph Lorem ipsum dolor sit amet, consectetur 
+    
 adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
 aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
+voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim 
+id est laborum.
 
-Lorem ipsum dolor st dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <span id="inline_html"> blah </span>exercitation ullamco laboris nisi ut aliquip ex ea commodo dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lorem ipsum dolor st dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+<span id="inline_html"> blah </span>exercitation ullamco laboris nisi ut aliquip 
+ex ea commodo dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat 
+non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <table border="1">
 <tr>
