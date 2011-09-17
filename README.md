@@ -197,3 +197,142 @@ Indentation with 4 spaces will not yield code-block, but a list with no visible 
 ### Some table syntax, maybe?
 
 ### Some smatry-pants, maybe?
+
+~~~~~~~
+                                              ==================================
+                                              Title or Headline 1, Right-aligned
+                                                 with top and bottom underlining
+                                              ==================================
+
+
+
+=================================
+Title or Headline 1, Left-aligned
+with top and bottom underlining
+=================================
+
+                    =================================
+                      Title or Headline 1, Centered
+                     with top and bottom underlining
+                    =================================
+                                                                    
+Title or Headline 1, Left-aligned with bottom underlining
+=========================================================
+
+            Title or Headline 1, Centered with bottom underlining
+            =====================================================
+            
+                      Title or Headline 1, Right-aligned with bottom underlining
+                      ==========================================================
+                      
+Headline 2, Left-aligned with bottom underlining
+-------------------------------------------
+
+            Headline 2, Centered with bottom underlining
+            -------------------------------------------
+            
+                               Headline 2, Right-aligned with bottom underlining
+                      ----------------------------------------------------------
+                      
+### Headline 3, left
+
+                        ### Headline 3, center ##
+                        
+                                                      ### Headline 3, right  ###
+
+#### Headline 4 inside a paragraph #######
+Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. Paragraph text, paragraph text. 
+                        
+Paragraph text left word-wrap, paragraph text left word-wrap,  paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap, paragraph text left word-wrap.
+
+________________________________________________________________________________
+
+
+Paragraph text left no-word-wrap, paragraph text left no-word-wrap, paragraph 
+text left no-word-wrap, paragraph text left no-word-wrap, paragraph text left 
+no-word-wrap, paragraph text left no-word-wrap, paragraph text left 
+no-word-wrap, paragraph text left no-word-wrap.
+
+Paragraph text left no-word-wrap with intentional line breaks.
+Paragraph text left no-word-wrap with.
+Paragraph text left no-word-wrap with intentional.
+Paragraph text left no-word-wrap with intentional line breaks.
+
+                                * * *
+                       # Centered Headline 1 #
+                Centered text, centered text, centered text, 
+                        centered text, centered text, 
+                    centered text, centered text, centered 
+        text, centered text, centered text, centered text, centered text, 
+                                centered text.
+                                
+                    Right-aligned text, right-aligned text,  right-aligned text,
+                                        right-aligned text,  right-aligned text,
+             ight-aligned text,  right-aligned text,  right-aligned text,  right
+                                                                   aligned text.
+
+Lorem ipsum dolor sit amet, consectetur adipisicing *italics*, sed do eiusmod tempor incididunt *italia* ut labore et dolore 3*3=9 magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco 2*2=4 laboris nisi ut aliquip ex ea commodo consequat *italics*. Duis aute **bold** irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est **bold old dold**.
+
+      *Often epigraphs are written in italics and right-aligned, and they occupy
+                                                                 several lines.*
+                                                                   -- Epigrapher
+
+       *"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, 
+                          consectetur, adipisci velit..."
+    "There is no one who loves plain text itself, who seeks after it and 
+                wants to have it, simply because it is plain..."*
+
+[Lorem ipsum][http://www.lipsum.com/] dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation google [google.com] ullamco laboris nisi ut aliquip ex ea commodo consequat[link consequat.com]. Duis aute irure dolor in reprehenderit in voluptate 
+[http://www.google.dk/search?sourceid=chrome&ie=UTF-8&q=voluptate] velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Inline image, inline image, inline image, inline image, inline image, [http://www.x-vinder.dk/sites/all/modules/contrib/smileys/packs/Roving/smile.png]
+inline image, inline image, inline image.
+
+[http://www.iconeasy.com/icon/thumbnails/Emoticon/IconTexto%20Emoticons/Smile%20Face%20Icon.jpg]
+
+        [http://icons.iconseeker.com/png/128/vista-halloween/smile-2.png]
+        
+               [http://icons.iconseeker.com/png/128/vista-halloween/smile-2.png]
+
+    Paragraph One Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Totally different paragraph Lorem ipsum dolor sit amet, consectetur 
+adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
+aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor st dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <span id="inline_html"> blah </span>exercitation ullamco laboris nisi ut aliquip ex ea commodo dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<table border="1">
+<tr>
+<td>row 1, *cell 1*</td>
+<td>row 1, **cell 2**</td>
+</tr>
+<tr>
+<td>row 2, cell[link cell.com] 1</td>
+<td>row 2, cell 2</td>
+</tr>
+</table>
+
+[http://www.youtube.com/watch?v=c211yCCZdJY]
+
+            [video http://www.youtube.com/watch?v=c211yCCZdJY]
+            
+         [http://www.youtube.com/watch?v=OeV_3EhXgos&feature=feedrec_grec_index]
+
+
+
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+
+
+
+
+
